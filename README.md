@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=text=LUNA&animation=fadeIN)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=LUNA&animation=fadeIN)
 
 ### Hi there 👋
 
