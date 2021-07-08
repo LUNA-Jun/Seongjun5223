@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=LUNA&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LUNA&animation=fadeIn&fontAlignY=40)
  <br>
  👋 Hi there! My name is SeongJun Im. I use the nickname is Luna🌕 a lot.
  
@@ -36,5 +36,5 @@
  [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:next5896@gmail.com)](mailto:next5896@gmail.com)&nbsp;&nbsp;
  [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003878114158)](https://www.facebook.com/profile.php?id=100003878114158)&nbsp;&nbsp;
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/i_jun93/)](https://www.instagram.com/i_jun93/)
- 
+  
  </div>
