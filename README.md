@@ -2,12 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=LUNA&animation=fadeIn)
  <br>
-
- 👋 Hi there! My name is SeongJun I use the most the nickname is Luna🌕 
+ 👋 Hi there! My name is SeongJun Im. I use the nickname is Luna🌕 a lot.
  
+ 🚀 I want to be a devloper who makes fun things. 🚀
  
- <hr>
+ ✉️ If you want to contact me, please send me an email or message. ✉️
  <br>
+ <hr>
+
  
 # 💻 Skills & Tools 💻
 
