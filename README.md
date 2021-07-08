@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=LUNA&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=LUNA&animation=fadeIn)
  <br>
  👋 Hi there! My name is SeongJun Im. I use the nickname is Luna🌕 a lot.
  
