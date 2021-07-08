@@ -1,7 +1,36 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=LUNA&animation=fadeIn)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongjun5223%2Fhit-counter&count_bg=%23E97E45&title_bg=%23CFCD47&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ <br>
+
+ 👋 Hi there! My name is SeongJun I use the most the nickname is Luna🌕 
+ 
+ 
+ <hr>
+ <br>
+ 
+# 💻 Skills & Tools 💻
+
+ ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)
+ ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+ ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+)
+ ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+)
+ ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+)
+ <br>
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+ ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+ 
+ <br>
 
 # 📮 Contacts 📮
-<div align=center>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:next5896@gmail.com)](mailto:next5896@gmail.com)&nbsp;&nbsp;&nbsp; [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003878114158)](https://www.facebook.com/profile.php?id=100003878114158)
+ 
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:next5896@gmail.com)](mailto:next5896@gmail.com)&nbsp;&nbsp;&nbsp; [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003878114158)](https://www.facebook.com/profile.php?id=100003878114158)
+ 
  </div>
